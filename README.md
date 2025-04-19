@@ -45,3 +45,11 @@ A React application that helps users manage their whisky collection and get pers
 ## API Endpoints
 
 - `GET http://services.baxus.co/api/bar/user/{username}` - Fetch user's bar data
+
+# Bob Bar Recommendation
+
+A recommendation system for Bob Bar that suggests similar bottles based on user preferences.
+
+## Demo
+
+Check out the live demo at [https://bob-bar-recommendation.vercel.app/](https://bob-bar-recommendation.vercel.app/)
